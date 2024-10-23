@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "658226305344",
+    "firebase_url": "https://fooddeliverydw-default-rtdb.firebaseio.com",
+    "project_id": "fooddeliverydw",
+    "storage_bucket": "fooddeliverydw.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658226305344:android:ca91c0053ca232ae2d82a5",
+        "android_client_info": {
+          "package_name": "com.dw373103.food_delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658226305344-3nvubg7gob3pf7j2chgqmlpkfh0lkgu7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRoBS1ez7GcH9lG8C8MplL4N-yfsAk5Oc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658226305344-3nvubg7gob3pf7j2chgqmlpkfh0lkgu7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "658226305344-jrnk2d3ondc08u71id5hdqo04dsa37m3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dw373103.FoodRestaurantApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658226305344:android:3367a75cf7795a872d82a5",
+        "android_client_info": {
+          "package_name": "com.dw373103.food_user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658226305344-hmol0j82e6g44e5220c4avha4p0ffs83.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dw373103.food_user",
+            "certificate_hash": "078488c61223a1486e81d2152e62c259c239ad94"
+          }
+        },
+        {
+          "client_id": "658226305344-3nvubg7gob3pf7j2chgqmlpkfh0lkgu7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRoBS1ez7GcH9lG8C8MplL4N-yfsAk5Oc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658226305344-3nvubg7gob3pf7j2chgqmlpkfh0lkgu7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "658226305344-jrnk2d3ondc08u71id5hdqo04dsa37m3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dw373103.FoodRestaurantApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658226305344:android:e2bec52d80d4d6812d82a5",
+        "android_client_info": {
+          "package_name": "com.dw373103.food_vendor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658226305344-3nvubg7gob3pf7j2chgqmlpkfh0lkgu7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRoBS1ez7GcH9lG8C8MplL4N-yfsAk5Oc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658226305344-3nvubg7gob3pf7j2chgqmlpkfh0lkgu7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "658226305344-jrnk2d3ondc08u71id5hdqo04dsa37m3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dw373103.FoodRestaurantApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
